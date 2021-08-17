@@ -5,5 +5,6 @@ package com.vuhien.application.constant;
  */
 public enum RoleName {
     ADMIN,
-    USER
+    USER,
+    PM
 }
